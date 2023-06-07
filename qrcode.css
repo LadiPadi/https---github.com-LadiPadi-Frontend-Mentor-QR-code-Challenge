@@ -1,19 +1,17 @@
 body {
-    background-color: lightsteelblue;
+    background-color: #D5E1EF;
     display: inline-block;
     width: 100%;
 }
-div {
+.container {
     background-color: whitesmoke;
     border-radius: 20px;
-    height: 450px;
     width: 300px;
-    margin: 50%;
     text-align: center;
-    font-family: 'Outfit', sans-serif;
-    display: inline-block;
-}
-
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+  }
 img {
     border-radius: 15px;
     height: 270px;
