@@ -1,5 +1,7 @@
 body {
     background-color: lightsteelblue;
+    display: inline-block;
+    width: 100%;
 }
 div {
     background-color: whitesmoke;
